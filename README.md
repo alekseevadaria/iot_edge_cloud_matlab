@@ -1,4 +1,5 @@
-# iot_edge_cloud_matlab
+# Towards the Advanced Data Processing for Medical Applications Using Task Offloading Strategy
+
 This work contains different IoT offloading schemes. The IoT model represents the data processing on the IoT device itself; MEC and MCC are offloading in the edge and cloud, respectively.
 
 The computing time and the energy consumption are simple equations in the local execution. 
@@ -11,7 +12,7 @@ Energy-consumption of Edge and Cloud is counting from the IoT side, i.e., how mu
 
 The work was presented at the 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob).
 
-# Cite as:
+## Cite as:
 
 @inproceedings{alekseeva2022towards,
 
