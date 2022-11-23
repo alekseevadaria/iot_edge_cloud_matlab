@@ -11,13 +11,20 @@ Energy-consumption of Edge and Cloud is counting from the IoT side, i.e., how mu
 
 The work was presented at the 2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob).
 
-Cite as:
+# Cite as:
 
 @inproceedings{alekseeva2022towards,
+
   title={Towards the Advanced Data Processing for Medical Applications Using Task Offloading Strategy},
+  
   author={Alekseeva, Daria and Ometov, Aleksandr and Lohan, Elena Simona},
+  
   booktitle={2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)},
+  
   pages={51--56},
+  
   year={2022},
+  
   organization={IEEE}
+  
 }
